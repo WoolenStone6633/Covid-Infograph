@@ -1,4 +1,9 @@
-# Covid Infograph
- Work in progress. Represents different COVID metrics using no words.
+# Covid Infographics
+ Represents different COVID metrics Based on images.
 
-Created to improve JavaScript skills.
+ ## Features
+ - Interactive
+ - Simple
+ - Clean
+## In Progress
+- Working to fix the colors displayed
