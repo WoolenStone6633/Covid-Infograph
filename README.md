@@ -7,5 +7,3 @@
  - Interactive
  - Simple
  - Clean
-## In Progress
-- Working to fix the colors displayed
