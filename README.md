@@ -1,5 +1,7 @@
 # Covid Infographics
- Represents different COVID metrics Based on images. $\color{blue}Check \ the \ deployment \ section \ for \ the \ link.$
+ Represents different COVID metrics Based on images.
+
+ Check it out here: https://woolenstone6633.github.io/Covid-Infograph/
 
  ## Features
  - Interactive
