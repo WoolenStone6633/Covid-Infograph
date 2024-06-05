@@ -113,7 +113,7 @@ function barGraphs() {
 }
 
 function dotLineGraph() {
-  fill(222, 99, 100);
+  fill(222, 150, 151);
   dragg = 0.01;
   dot(dragg, strength, pos[1], 69, 393);
   dot(dragg, strength, pos[2], 85, 393);
@@ -266,7 +266,7 @@ function dotMapGraph() {
 }
 
 function dotBarGraph() {
-  fill(222, 99, 100);
+  fill(222, 150, 151);
   dragg = 0.01;
   dot(dragg, strength, pos[1], 142, 390);
   dot(dragg, strength, pos[2], 142, 383);
